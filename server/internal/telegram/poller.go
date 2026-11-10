@@ -12,8 +12,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"bytes"
 	"github.com/ovh-buy/server/internal/app"
+	"bytes"
 )
 
 // ─────────────────────────────────────────────────────────────────────────────
